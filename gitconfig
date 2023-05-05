@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = brandon.f70@gmail.com
+	name = brandon ferrante
